@@ -1,0 +1,4 @@
+[functions.detect-phishing]
+enabled = true
+verify_jwt = false
+entrypoint = "./functions/detect-phishing/index.ts"

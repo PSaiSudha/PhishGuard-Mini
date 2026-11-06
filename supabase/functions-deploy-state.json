@@ -1,0 +1,9 @@
+{
+  "projectId": "72717376",
+  "functions": {
+    "detect-phishing": {
+      "hasChanged": false,
+      "hash": "7e3b00522bed891b351281f44301eb7b2a7728a6bf934b7d82b800c0f13160f6"
+    }
+  }
+}
