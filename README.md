@@ -12,7 +12,6 @@
 
 ### [🚀 Visit PhishGuard](https://phishguardmini-dtljimyfz-sai-sudha.vercel.app/)
 
-> Replace `https://your-deployed-url.com` with your actual Render deployment URL.
 
 ## 📌 About the Project
 
