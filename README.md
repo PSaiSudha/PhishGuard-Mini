@@ -264,23 +264,6 @@ npm run build
 - Safe suspicious URL analysis.
 - Avoid storing sensitive credentials in plain text.
 
-## 📸 Screenshots
-
-### Application Dashboard
-
-_Add your dashboard screenshot here._
-
-### Message Analysis
-
-_Add your message analysis screenshot here._
-
-### URL Analysis
-
-_Add your URL analysis screenshot here._
-
-### Analysis History
-
-_Add your history screenshot here._
 
 ## 🚀 Future Enhancements
 
@@ -292,27 +275,6 @@ _Add your history screenshot here._
 - Advanced analytics dashboard.
 - Automated phishing alerts.
 
-## 🎓 Project Information
-
-| Details | Description |
-|---|---|
-| Project Name | PhishGuard |
-| Project Domain | Data Science & Cybersecurity |
-| Project Type | Web-Based Phishing Detection System |
-| Frontend | React + TypeScript |
-| Backend Services | Supabase |
-| Database | PostgreSQL |
-| ML Framework | Scikit-learn |
-| Institution | Rajeev Gandhi Memorial College of Engineering and Technology |
-| Department | Data Science |
-
-## 👩‍💻 Developed By
-
-**Project Team:** Add your team members' names.
-
-**Institution:** Rajeev Gandhi Memorial College of Engineering and Technology
-
-**Department:** Data Science
 
 ## 📄 License
 
